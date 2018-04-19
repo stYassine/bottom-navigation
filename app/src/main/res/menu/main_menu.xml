@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/bn_recents"
+        android:title="Recents"
+        android:icon="@drawable/history"
+        />
+    <item
+        android:id="@+id/bn_favorites"
+        android:title="Favorites"
+        android:icon="@drawable/heart"
+        />
+    <item
+        android:id="@+id/bn_near"
+        android:title="Near By"
+        android:icon="@drawable/map"
+        />
+
+
+</menu>
